@@ -17,7 +17,7 @@ git clone https://github.com/DevDuckFace/DFConverterVideo
 
 3:select the location where the converted files were located
 
-4:Select Size, FPS, Bitrate out
+4:Select Size, FPS out
 
 5:click convert, wait for the conversion completed message
 
