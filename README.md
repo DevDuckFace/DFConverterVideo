@@ -3,10 +3,10 @@
  * Select GPU(nvidia) or CPU
  Converter videos to MP4, FLV, AVI
 <img src="/img/Screenshot_2.png">
-You need install [FFmpeg](https://ffmpeg.org/download.html)
+
 
 ## How use:
-
+You need install [FFmpeg](https://ffmpeg.org/download.html)
 ```bash
 git clone https://github.com/DevDuckFace/DFConverterVideo
 ```
