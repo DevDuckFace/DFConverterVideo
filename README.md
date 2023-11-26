@@ -2,7 +2,7 @@
  Converter MP4,AVI,FLV,MKV,M3U8,TS
  * Select GPU(nvidia) or CPU
  Converter videos to MP4, FLV, AVI
-<img src="DFConverterVideo/blob/main/Screenshot_2.png">
+<img src="DFConverterVideo/Screenshot_2.png">
 You need install [FFmpeg](https://ffmpeg.org/download.html)
 
 ## How use:
